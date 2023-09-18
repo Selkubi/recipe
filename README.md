@@ -8,3 +8,4 @@ Used in teaching Git.
 
 
 New info for the difficult excercise
+more conflicting informatin added
